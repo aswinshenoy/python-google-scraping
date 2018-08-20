@@ -1,7 +1,7 @@
-import requests	# Requests required to obtain webpage
+import requests		# Requests required to obtain webpage
 import bs4		# BS4 required to parse webpage
 
-print("GOOGLE SCRAPPING USING PY3 AND BS4 \n")
+print("GOOGLE SCRAPING USING PY3 AND BS4 \n")
 
 #User Can Enter Search Query
 query = input("ENTER SEARCH QUERY: ")
