@@ -3,4 +3,4 @@ A simple python 3 script which uses bs4 to extract headings/titles of the first 
 
 Requires : Python 3, BeautifulSoup 4
 
-Note: It has been assumed that Google uses <h3> tag only on result headings, and all content in <h3> tag would be treated as result headings.
+Note: It has been assumed that Google uses \<h3> tag only on result headings, and all content in \<h3> tag would be treated as result headings.
