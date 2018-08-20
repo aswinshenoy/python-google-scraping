@@ -1,2 +1,3 @@
-# python-google-scrapping
-Google Scrapping Using Python
+# Google Scrapping Using Python
+
+Requires : Python 3, BeautifulSoup 4
