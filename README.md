@@ -1,4 +1,4 @@
-# Google Scrapping Using Python
+# Google Scraping Using Python
 A simple python 3 script which uses bs4 to extract headings/titles of the first page google results of a user-inputed search query. 
 
 Requires : Python 3, BeautifulSoup 4
