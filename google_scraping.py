@@ -5,7 +5,7 @@ import bs4		# BS4 required to parse webpage
 print("GOOGLE SCRAPING USING PY3 AND BS4 \n")
 
 #Accepts Search Keywords from the User
-keyword = input("ENTER SEARCH Keywords: ")
+keyword = input("ENTER SEARCH KEYWORDS: ")
 
 #Setting Query Parameters for Search 
 params = [('q',keyword)]
